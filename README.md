@@ -67,7 +67,7 @@ O processo inverso utiliza o mesmo dicionário para recuperar a mensagem origina
 1. Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/kennedy-0/NumCipher.git
 ```
 
 2. Entre na pasta:
