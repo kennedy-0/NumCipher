@@ -73,7 +73,7 @@ git clone https://github.com/kennedy-0/NumCipher.git
 2. Entre na pasta:
 
 ```bash
-cd NumCipher
+cd NumCipher/script
 ```
 
 3. Execute o programa:
